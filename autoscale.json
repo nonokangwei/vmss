@@ -77,7 +77,7 @@
       "properties": {
         "mode": "Incremental",
         "templateLink": {
-          "uri": "[variables('autoscaleLogic').templateUri]",
+          "uri": "https://raw.githubusercontent.com/nonokangwei/vmss/master/autoscaleHelper.json",
           "contentVersion": "1.0.0.0"
         },
         "parameters": "[variables('autoscaleLogic').parameters]"
