@@ -71,7 +71,7 @@
   },
   "resources": [
     {
-      "name": "saDep",
+      "name": "autoscalesaa",
       "type": "Microsoft.Resources/deployments",
       "apiVersion": "2015-11-01",
       "properties": {
