@@ -64,7 +64,7 @@
             "rules": [
               {
                 "metricTrigger": {
-                  "metricName": "PercentageCPU",
+                  "metricName": "Percentage CPU",
                   "metricNamespace": "",
                   "metricResourceUri": "[parameters('vmssId')]",
                   "timeGrain": "PT1M",
@@ -83,7 +83,7 @@
               },
               {
                 "metricTrigger": {
-                  "metricName": "PercentageCPU",
+                  "metricName": "Percentage CPU",
                   "metricNamespace": "",
                   "metricResourceUri": "[parameters('vmssId')]",
                   "timeGrain": "PT1M",
